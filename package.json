@@ -1,0 +1,23 @@
+{
+  "name": "shock",
+  "version": "0.0.1",
+  "description": "shock - An electron streaming service.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnyxFlames/shock.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OnyxFlames/shock/issues"
+  },
+  "homepage": "https://github.com/OnyxFlames/shock#readme",
+  "dependencies": {
+    "electron": "^3.0.4"
+  }
+}
